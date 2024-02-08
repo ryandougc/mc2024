@@ -1,0 +1,43 @@
+[04:48:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:48:03] [ServerMain/INFO]: Loaded 7 recipes
+[04:48:03] [ServerMain/INFO]: Loaded 1271 advancements
+[04:48:04] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[04:48:04] [Server thread/INFO]: Loading properties
+[04:48:04] [Server thread/INFO]: Default game type: SURVIVAL
+[04:48:04] [Server thread/INFO]: Generating keypair
+[04:48:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:48:04] [Server thread/INFO]: Using epoll channel type
+[04:48:04] [Server thread/INFO]: Preparing level "world"
+[04:48:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:48:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:48:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[04:48:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[04:48:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[04:48:10] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[04:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:48:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:48:10] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[04:48:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[04:48:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:48:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:48:11] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[04:48:12] [Worker-Main-7/INFO]: Preparing spawn area: 86%
+[04:48:12] [Server thread/INFO]: Time elapsed: 6138 ms
+[04:48:12] [Server thread/INFO]: Done (7.959s)! For help, type "help"
+[04:48:12] [Server thread/INFO]: Starting remote control listener
+[04:48:12] [Server thread/INFO]: Thread RCON Listener started
+[04:48:12] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[05:16:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[05:16:26] [Server thread/INFO]: [Rcon: Stopping the server]
+[05:16:26] [Server thread/INFO]: Stopping server
+[05:16:26] [Server thread/INFO]: Saving players
+[05:16:26] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[05:16:26] [Server thread/INFO]: Saving worlds
+[05:16:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:16:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:16:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:16:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:16:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:16:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:16:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:16:27] [Server thread/INFO]: Thread RCON Listener stopped
